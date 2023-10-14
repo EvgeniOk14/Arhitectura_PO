@@ -1,6 +1,7 @@
 package ru.geekbrains.lesson1.store3d.modelelements;
 
-public class Point3D {
+public class Point3D
+{
 
 
     //region Constructors
@@ -18,27 +19,33 @@ public class Point3D {
 
     //region Public Properties
 
-    public double getX() {
+    public double getX()
+    {
         return x;
     }
 
-    public void setX(double x) {
+    public void setX(double x)
+    {
         this.x = x;
     }
 
-    public double getY() {
+    public double getY()
+    {
         return y;
     }
 
-    public void setY(double y) {
+    public void setY(double y)
+    {
         this.y = y;
     }
 
-    public double getZ() {
+    public double getZ()
+    {
         return z;
     }
 
-    public void setZ(double z) {
+    public void setZ(double z)
+    {
         this.z = z;
     }
 

@@ -1,8 +1,10 @@
 package ru.geekbrains.lesson1.store3d.modelelements;
 
-public class Texture {
+public class Texture
+{
 
     public Texture(String name)
+
     {
         this.name = name;
     }
@@ -11,11 +13,13 @@ public class Texture {
 
     private String name;
 
-    public int getId() {
+    public int getId()
+    {
         return id;
     }
 
-    public String getName() {
+    public String getName()
+    {
         return name;
     }
 
