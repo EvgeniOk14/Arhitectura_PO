@@ -1,0 +1,3 @@
+https://github.com/EvgeniOk14/Arhitectura_PO/tree/main/ДЗ_1/lesson1/src/main/java/ru/geekbrains/lesson1/store3d     - ссылка на GitHub, с решением ДЗ№1
+
+Выполнил: Е.В.Окишев
