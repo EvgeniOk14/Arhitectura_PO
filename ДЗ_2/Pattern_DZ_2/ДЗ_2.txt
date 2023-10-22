@@ -1,0 +1,5 @@
+https://github.com/EvgeniOk14/Arhitectura_PO/tree/main/ДЗ_2/Pattern_DZ_2     - ссылка на GitHub, с решением ДЗ№2
+
+UMLсхема находится в папке: "схема"
+
+Выполнил: Е.В.Окишев
