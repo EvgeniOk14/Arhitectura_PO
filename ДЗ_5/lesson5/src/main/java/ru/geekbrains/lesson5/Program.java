@@ -79,11 +79,23 @@ public class Program {
                             break;
 
                         case 8:
+                            try{
                             editor3D.addNewModel(editor3D.createNewModel());
+                                }
+                            catch (RuntimeException e)
+                            {
+                                e.getMessage();
+                            }
                             break;
 
                         case 9:
-                            editor3D.addNewTexture(editor3D.createNewTexture());
+                            try {
+                                editor3D.addNewTexture(editor3D.createNewTexture());
+                            }
+                            catch (RuntimeException e)
+                            {
+                                e.getMessage();
+                            }
                             break;
 
                         default:
